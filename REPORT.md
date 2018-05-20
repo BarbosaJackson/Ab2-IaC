@@ -1,6 +1,6 @@
 # Identificação
 
-* Página do repositório do trabalho (<a href="https://github.com/BarbosaJackson/Monitor_de_processo"> link do repositorio no Github</a>) 
+* Página do repositório do trabalho [link do repositório no github](https://github.com/BarbosaJackson/Monitor_de_processo) 
 
 * Discente 1
 * Nome: Pedro Javier Paneca Cordova
