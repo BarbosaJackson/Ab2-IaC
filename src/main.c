@@ -60,7 +60,7 @@ int main(int argc, char *argv[], char *envp[]) {
 		system(sys); // executa o comando 'kill *pid*' matando o processo filho após 10 segundos de execução
 	}
 	
-	perror ("Erro: ") ; /* execve nãoo funcionou */
+	perror ("Erro: ") ; /* execve não funcionou */
 	exit(0) ; /* encerra o processo com sucesso (código 0) */ 
 	return 0;
 }
