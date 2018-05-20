@@ -1,6 +1,6 @@
 # Instalação
 
-Para a instalação do monitor de processos inicialmente deve-se abrir o terminal, para isto use o buscador ou o atalho *CONTROL + ALT + T*, feito isso, vá a pasta onde gostaria de clonar o repositório utilizando o comando cd(_change disk_) caminho, veja um exemplo:
+Para a instalação do monitor de processos inicialmente deve-se abrir o terminal, para isto use o buscador ou o atalho *CONTROL + ALT + T*, feito isso, vá a pasta onde gostaria de clonar o repositório utilizando o comando cd(_change directory_) caminho, veja um exemplo:
 
 ```bash
 $ cd Desktop/
